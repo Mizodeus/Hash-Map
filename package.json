@@ -1,0 +1,25 @@
+{
+  "name": "hash-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mizodeus/Hash-Map.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Mizodeus/Hash-Map/issues"
+  },
+  "homepage": "https://github.com/Mizodeus/Hash-Map#readme",
+  "devDependencies": {
+    "@babel/core": "^8.0.9",
+    "@babel/preset-env": "^8.0.7",
+    "babel-jest": "^30.5.2",
+    "jest": "^30.5.2"
+  }
+}
